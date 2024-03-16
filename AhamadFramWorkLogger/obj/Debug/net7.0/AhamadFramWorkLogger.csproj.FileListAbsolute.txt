@@ -1,0 +1,14 @@
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\obj\Debug\net7.0\AhamadFramWorkLogger.csproj.AssemblyReference.cache
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\obj\Debug\net7.0\AhamadFramWorkLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\obj\Debug\net7.0\AhamadFramWorkLogger.AssemblyInfoInputs.cache
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\obj\Debug\net7.0\AhamadFramWorkLogger.AssemblyInfo.cs
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\obj\Debug\net7.0\AhamadFramWorkLogger.csproj.CoreCompileInputs.cache
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\bin\Debug\net7.0\AhamadFramWorkLogger.deps.json
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\bin\Debug\net7.0\AhamadFramWorkLogger.runtimeconfig.json
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\bin\Debug\net7.0\AhamadFramWorkLogger.dll
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\bin\Debug\net7.0\AhamadFramWorkLogger.pdb
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\obj\Debug\net7.0\AhamadFramWorkLogger.dll
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\obj\Debug\net7.0\refint\AhamadFramWorkLogger.dll
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\obj\Debug\net7.0\AhamadFramWorkLogger.pdb
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\obj\Debug\net7.0\AhamadFramWorkLogger.genruntimeconfig.cache
+C:\Users\a.hamidi\Desktop\work\LoggerFramWork\AhamadFramWorkLogger\obj\Debug\net7.0\ref\AhamadFramWorkLogger.dll
